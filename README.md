@@ -1,5 +1,5 @@
 # neorg-trouble
-Create mapping as drop-in replacement for built-in traverse headings mode.
+Create the following mapping as drop-in replacement for the built-in traverse headings mode.
 ```vim
-nnoremap <trouble_leader>mh :Trouble neorg<cr>
+nnoremap <neorg_leader>mh :Trouble neorg<cr>
 ```
